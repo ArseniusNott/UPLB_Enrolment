@@ -1,0 +1,31 @@
+---
+title: University of the Philippines - Los Baños 1st Semester Enrolment for School
+  Year 2018-2019
+author: "Alexander N. Villasoto"
+date: "5 December 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+- The [University of the Philippines Los Baños (UPLB)](http://uplb.edu.ph/), a coeducational publicly funded academic, research and extension institution, is one of the eight constituent universities of the University of the Philippines System.
+- As a supporter of [Open Data Initiative in the Philippines](https://data.gov.ph/about), UPLB opened a dataset that summarizes their graduate school's enrolment data for the school year 2018-2019.
+- The dataset is recently uploaded on Thursday, November 8, 2018 - 14:28. You can find more information [here](https://data.gov.ph/dataset/graduate-school-dataset).
+
+## Goals
+
+- The goal of this project is to create an interactive plot that shows the number of enrolees per program based on the preselected filters such as college (e.g. College_of_Agriculture_and_Food_Science) and degree (e.g. Master_of_Science). 
+- The project is created using a combination of Shiny and Plotly. Codebase and documentation can be found [here](https://github.com/ArseniusNott/UPLB_Enrolment).
+
+***
+
+```{r knitr_plot, echo = FALSE}
+knitr::include_app("https://arsenius.shinyapps.io/UPLB_First_Semester_Enrolment_for_SY_2018_2019/", height = "600px")
+```
+####Please wait for it to load. Thank you.
+
+***
