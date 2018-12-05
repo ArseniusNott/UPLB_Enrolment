@@ -8,4 +8,4 @@ A complete ioslides presentation can be accessed [here](https://arseniusnott.git
 
 ## Notes:
 
-It takes time to load the bar plot. Please wait. Also, the plot is uploaded via shinyapps.io, a free tier offering 24 hour usage limit per hour. If you have problems viewing the plot, it might be that it reached the usage limit. If that is the case, you can email the author here [anvillasoto@gmail.com](mailto:anvillasoto@gmail.com). Thank you.
+It takes time to load the bar plot. Please wait. Also, the plot is uploaded via shinyapps.io, a free tier offering 24 hour usage limit per month. If you have problems viewing the plot, it might be that it reached the usage limit. If that is the case, you can email the author here [anvillasoto@gmail.com](mailto:anvillasoto@gmail.com). Thank you.
