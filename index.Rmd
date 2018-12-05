@@ -26,6 +26,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r knitr_plot, echo = FALSE}
 knitr::include_app("https://arsenius.shinyapps.io/UPLB_First_Semester_Enrolment_for_SY_2018_2019/", height = "600px")
 ```
-####Please wait for it to load. Thank you.
+**It takes a while to load the bar plot. Please wait.**
+
+## Additional Notes
+
+The plot is uploaded via shinyapps.io, a free tier offering 24 hour usage limit per hour. If you have problems viewing the plot, it might be that it reached the usage limit. If that is the case, you can email the author here [anvillasoto@gmail.com](mailto:anvillasoto@gmail.com). Thank you.
 
 ***
